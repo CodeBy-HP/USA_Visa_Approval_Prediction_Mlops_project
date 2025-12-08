@@ -1,5 +1,9 @@
 # set setup.py
 
-# set venv
+# set venv visa
 
 # install dependencies
+
+# set up the mongodb database
+
+# load dataset to mongodb
