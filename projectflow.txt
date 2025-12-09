@@ -11,3 +11,9 @@
 # set logging exception utils
 
 # perform EDA, FE, Model Training on jupy notebook
+
+# perform Data Ingestion -> Data drift with Evidently
+- update constants
+- entity
+- components
+- pipelines
